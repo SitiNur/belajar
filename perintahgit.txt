@@ -1,0 +1,8 @@
+git status
+
+git init
+di remote dulu
+git add .
+git commit -m "bla bla bla"
+git push -u origin master
+git pull
